@@ -41,7 +41,7 @@ export default function Home() {
 
         <Col md={0}></Col>
 
-        <Col sm={15} xs={15} md={13} lg={{span:7,offset:1}} xl={6} xxl={5}>
+        <Col sm={18} xs={18} md={13} lg={{span:7,offset:1}} xl={6} xxl={5}>
           
           <Sider/>
         </Col> 

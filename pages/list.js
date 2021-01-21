@@ -85,7 +85,7 @@ const List =({router})=> {
                     
                 </Col>
 
-                <Col sm={22} xs={22} md={{span:14,offset:1}} lg={{span:7,offset:1}} xl={6} xxl={5}>
+                <Col sm={18} xs={18} md={{span:14,offset:1}} lg={{span:7,offset:1}} xl={6} xxl={5}>
           
                     <Sider/>
                 </Col> 
